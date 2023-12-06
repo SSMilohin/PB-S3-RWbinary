@@ -1,0 +1,3 @@
+Bread 50 False
+Milk 120 True
+Cheese 250 True
